@@ -1,0 +1,171 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Free SS/ShadowsocksR - Free.ss-ssr.com</title>
+		<meta charset="utf-8" />
+		<meta name="keywords" content="ss,ssr,free" />
+		<meta name="description" content="免费SS/ShadowsocksR服务器二维码分享，适用于iPhone/iPad/Windows/Android/Mac所有设备" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="shortcut icon" href="/favicon.ico"/>
+        <link rel="bookmark" href="/favicon.ico"/>
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+      	</head>
+	<body class="homepage">
+		<div id="page-wrapper">
+			<div class="container">
+
+				<!-- Header Wrapper -->
+					<div id="header-wrapper" class="wrapper">
+
+						<!-- Header -->
+							<div id="header">
+
+								<!-- Logo -->
+									<a href="#portfolio-preview" id="logo">
+										<span class="pennant"><span class="icon fa-qrcode"></span></span>
+										<h1>掃二維碼<i class="fa fa-cog" aria-hidden="true"></i>自動配寘</h1>
+									</a>
+
+								<!-- Nav -->
+									<nav id="nav">
+										<ul>
+											<li class="current_page_item"><a href="index.html">首頁</a></li>
+											<li><a href="#portfolio-preview">免費</a></li>
+                                          <li><a href="#footer">付費</a></li>
+											<!-- Nav 
+                                                <li>
+												<a href="#">下載</a>
+												<ul>
+													<li>
+														<a href="#">windows</a>
+														<ul>
+															<li><a href="https://github.com/shadowsocks/shadowsocks-windows/releases" target="_blank">Github</a></li>
+														</ul>
+													</li>
+													<li>
+														<a href="#">Macbook</a>
+														<ul>
+															<li><a href="https://github.com/shadowsocks/shadowsocks-iOS/releases" target="_blank">Github</a></li>
+															<li><a href="https://sourceforge.net/projects/shadowsocksgui/files/dist/ShadowsocksX-2.6.3.dmg/download" target="_blank">Sourceforge</a></li>
+														</ul>
+													</li>
+													<li>
+														<a href="#">iPhone/iPad</a>
+														<ul>
+															<li><a href="https://itunes.apple.com/us/app/shadowrocket-for-shadowsocks/id932747118" target="_blank">Apple商店</a></li>									
+														</ul>
+													</li>
+													<li>
+														<a href="#">Android</a>
+														<ul>
+															<li><a href="https://github.com/shadowsocks/shadowsocks-android/releases" target="_blank">Github</a></li>
+														</ul>
+													</li>
+												</ul>
+											</li>	
+                                              -->
+	<li><a href="http://h.ss-ssr.com"" target="_blank">教程</a></li>
+	<li><a href="http://myip.ss-ssr.com" target="_blank">測試</a></li>
+										</ul>
+									</nav>
+
+							</div>
+
+					</div>
+
+				<!-- Banner Wrapper -->
+					<div id="banner-wrapper" class="wrapper">
+
+						<!-- Banner -->
+							<section id="banner">
+								<h2>合理使用 <i class="fa fa-history fa-spin fa-1x fa-fw" aria-hidden="true"></i> 定時更新</h2>
+                                <p align="center">為了避免濫用，帳號均已限速，推薦使用付費<a href="http://ss-ssr.com"" target="_blank">穩定服務器</a></p>
+                                      <p>遇到時能用時不能用，可能是設備數限制滿了</p>
+								<p>認准本站唯一網址</p>
+								<p><font color="red"><strong>Free.ss-ssr.com</strong></font></p>
+							</section>
+
+					</div>
+
+				<!-- Portfolio Wrapper -->
+					<div class="wrapper">
+						<section id="portfolio-preview">
+							<header>
+								<h2>免費<i class="fa fa-rocket" aria-hidden="true"></i>SS/ShadowsocksR服務器二維碼分享</h2>
+                       
+								<p align="center">掃描二維碼配寘</p>
+							</header>
+							<div >								
+								 <div>
+									<a align="center" >
+									<img src="https://free.ss-ssr.com/api.php?text=ss://YWVzLTI1Ni1jZmI6c3Mtc3NyLmNvbUBzaGFyZS5zcy1zc3IuY29tOjg4ODg">
+                                    </a></div> 
+								<p><a>ss://YWVzLTI1Ni1jZmI6c3Mtc3NyLmNvbUBzaGFyZS5zcy1zc3IuY29tOjg4ODg</a></p>
+							</div>
+						
+							<footer>
+								<a href="https://t.me/freessssr" target="_blank" class="button button-alt">加入Telegram頻道</a>
+							</footer>
+						</section>
+					</div>
+
+				<!-- Footer Wrapper -->
+					<div id="footer-wrapper" class="wrapper">
+
+<!-- Premium -->
+                                                        <section id="footer">
+                                                                <header>
+                                                                        <h2>推薦使用付費穩定服務器</h2>
+                                                                </header>
+      <p>
+           <a href="javascript:void(0)" onMouseOut="hideImg()"  onmouseover="showImg()"><i class="fa fa-qq" aria-hidden="true"></i></a>   
+         3375124988
+    <div id="wxImg" style="display:none;height:50px;back-ground:#f00;position:relative;"><img src="images/qq.png" alt="" /></div>
+                                 </p>                         
+								<p align="center">SS/ShadowsocksR Server <i class="fa fa-server" aria-hidden="true"></i></p>
+                                                                <ul class="contact">
+                                                                        <li><a href="https://ss-ssr.com" target="_blank" class="button">一鍵接入，鏈接全球</a></li>
+                                                                </ul>
+                                                        </section>
+
+						<!-- Copyright -->
+							<div id="copyright">
+								&copy; Free.ss-ssr.com 2015-2018. All rights reserved.
+							</div>
+
+					</div>
+
+			</div>
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.selectorr.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/skel-viewport.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+    <script type="text/javascript">
+    function  showImg(){
+    document.getElementById("wxImg").style.display='block';
+    }
+    function hideImg(){
+    document.getElementById("wxImg").style.display='none';
+    }
+    </script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129698552-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-129698552-1');
+</script>
+
+</body>
+</html>
